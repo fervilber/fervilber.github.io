@@ -1,0 +1,30 @@
+---
+title: probatinas
+author: Marina
+date: '2021-01-24'
+slug: []
+categories: []
+tags: []
+description: ''
+thumbnail: './images/panda.png'
+toc: no
+---
+
+Este es mi nuevo blog. Aquí os iré poniendo los enlaces a mis nuevos videas.
+
+![panda](images/panda.png)
+
+## cosas
+
+vamos a hacer un montón de cosas en el blog 
+
+```{r, eval=TRUE}
+blogdown::shortcode("youtube", "QymGWKKgDa4")
+
+```
+
+
+## nada mas
+
+espero que os hay gustado mucho cmucho
+
